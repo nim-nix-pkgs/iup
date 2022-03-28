@@ -11,7 +11,6 @@
   inputs.src-iup-master.ref   = "refs/heads/master";
   inputs.src-iup-master.owner = "nim-lang";
   inputs.src-iup-master.repo  = "iup";
-  inputs.src-iup-master.dir   = "";
   inputs.src-iup-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
