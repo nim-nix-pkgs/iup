@@ -7,7 +7,7 @@
   "license": "MIT",
   "method": "git",
   "refs": [
-    "fatal: unable to access 'https://github.com/nim-lang/iup/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/nim-lang/iup/': SSL connection timeout",
     ""
   ],
   "heads": []
